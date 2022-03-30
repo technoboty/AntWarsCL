@@ -1,0 +1,21 @@
+#╔════╦═══╦══╦╗╔╦╗─╔╦══╦══╗╔══╦════╦╗╔╗
+#╚═╗╔═╣╔══╣╔═╣║║║╚═╝║╔╗║╔╗║║╔╗╠═╗╔═╣║║║
+#──║║─║╚══╣║─║╚╝║╔╗─║║║║╚╝╚╣║║║─║║─║╚╝║
+#──║║─║╔══╣║─║╔╗║║╚╗║║║║╔═╗║║║║─║║─╚═╗║
+#──║║─║╚══╣╚═╣║║║║─║║╚╝║╚═╝║╚╝║─║║──╔╝║
+#──╚╝─╚═══╩══╩╝╚╩╝─╚╩══╩═══╩══╝─╚╝──╚═╝
+
+name: AntWarsCL
+main: antwars2\Main
+version: 1.0.0beta
+api: 4.0.0
+author: TechnoBoty,Noerul
+website: https://discord.gg/Sfu68mS3yk
+commands:
+  ant:
+    permission: ant.use
+    description: open form
+permissions:
+  ant.use:
+    description: open form players
+    default: true
